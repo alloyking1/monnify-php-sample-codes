@@ -3,10 +3,10 @@
 ![Monnify Logo](/site-logo.svg)
 
 
-This repository contains sample codes to how you how to implement an integrate the [Monnify](https://monnify.com/) API in PHP. 
+This repository contains sample codes for implementing and integrating the [Monnify](https://monnify.com/) API in PHP. 
 
 > NOTE:
-> *Please note that this is just for demonstration purposes and not production code.*
+> *Please note that this is just for demonstration purposes, not production code.*
  
 
 
@@ -14,16 +14,16 @@ This repository contains sample codes to how you how to implement an integrate t
 
 - **Authentication** - [sample-codes/authentication/README.md][l1] : How to create / get Authorization Token from Monnify. 
 - **Webhooks** - [sample-codes/webhooks/README.md][l2] : How to handle webhooks with PHP
-- **Reserved Account** - [sample-codes/reservedaccount/README.md][l3] : How to create reserved account for Monnify. reserved account is a static Bank Account you create for your user and it does not expire unless you delete it.
+- **Reserved Account** - [sample-codes/reservedaccount/README.md][l3] : How to create reserved account for Monnify. The reserved account is a static bank account that you can create for your users. This account does not expire unless you delete it.
 - **Bank Account Verification** - [sample-codes/bankverification/README.md][l4] :  
-- **Transfer** - [sample-codes/transfer/README.md][l5] : How to trasfer funds/money to a bank account with PHP on monnify
+- **Transfer** - [sample-codes/transfer/README.md][l5] : How to transfer funds/money to a bank account with PHP on Monnify
   
  
  
  
 ## Development
 
-Want to contribute? Great! Send a a mail to integration-support@monnify.com
+Want to contribute? Great! Send a mail to integration-support@monnify.com
 
 ## License
 **Free Software!**
